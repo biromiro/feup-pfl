@@ -1,2 +1,2 @@
 
-Proposed project solution for the Functional and Logical Programming course @ FEUP
+Proposed exercises solution for the Functional and Logical Programming course @ FEUP
